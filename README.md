@@ -1,12 +1,17 @@
 # finalCapstone
 
+## About
 This project is the holiday.py program.
 
 The program allows the user to select their holiday destination, flight prices and extras and calculates the full price of the holiday for them.
 
+## Installation
+
 No packages need to be installed for this project to run.
 
 To install the file, please download the holiday.py file and run it in your selected Python application.
+
+## How it works
 
 When the program starts, the user is prompted to choose which city they would like to fly to from a number of options:
 
